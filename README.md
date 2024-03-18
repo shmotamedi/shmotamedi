@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+in searching for meaning of life in physics, philosophy and musics. I am only a regular scientist in  T.Kuhn opinion that've liked computational and Theoretical astrophysics and my long term goal in life, is to solve the missing mass conondrum, at least on galaxy scale! I totally interested in dark matter alternatives (e.g. MOND, EMOND, GMOND, MOG, ...) to solve this problem.
 <!--
 **shmotamedi/shmotamedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
