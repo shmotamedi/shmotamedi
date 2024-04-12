@@ -1,3 +1,2 @@
 ### Hi 👋, I'm shahryar motamedi
-My interest is Concentrated in computational and theoretical astrophysics, with the goal of solving the puzzle of missing mass problems. 
-I am fascinated by alternative theories to dark matter like MOND. Forexample in my Ph.D. research, I Focused on DF (dynamical friction) time scale to Verify Modified Newtonian Dynamics at the scale of galaxies. Apart from my scientific pursuits, I'm currently involved in machine learning (ML) projects.
+My focus lies in computational and theoretical astrophysics, aiming to unravel the mystery of missing mass issues. I am intrigued by alternative concepts such as MOND instead of dark matter. For instance, during my Ph.D. studies, I delved into examining the DF (dynamical friction) timescale to validate Modified Newtonian Dynamics on a galactic level. Beyond my scientific endeavors, I am actively engaged in machine learning (ML) initiatives.
