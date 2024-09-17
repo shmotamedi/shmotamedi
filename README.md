@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Shahryar Motamedi, and my life's main challenge lies in the sky!
+I am Shahryar Motamedi, and my life's main challenge lies in the sky.
 <!--
 **shmotamedi/shmotamedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
