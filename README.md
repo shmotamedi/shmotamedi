@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Shahryar Motamedi, an astrophysicist passionate about unraveling the mysteries of the dark universe.
+I am Shahryar Motamedi, an astrophysicist passionate about applying computers to physics.
 <!--
 **shmotamedi/shmotamedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
