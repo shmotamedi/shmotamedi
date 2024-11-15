@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Shahryar Motamedi, an astrophysicist who enjoys simulating the universe with computers..
+I am Shahryar Motamedi, an astrophysicist who passionate about simulating the universe with computers.
 <!--
 **shmotamedi/shmotamedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
