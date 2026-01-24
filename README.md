@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Dr. Shahryar Motamedi, an astrophysicist passionate about simulating the universe on a large scale.
+I am Dr. Shahryar Motamedi, an astrophysicist passionate about large-scale modeling and simulation of the universe.
 <!--
 **shmotamedi/shmotamedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
