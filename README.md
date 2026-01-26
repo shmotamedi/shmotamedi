@@ -1,5 +1,8 @@
 ## Hi there 👋
 I am Dr. Shahryar Motamedi, an astrophysicist passionate about large-scale modeling and simulation of the universe.
+## 📄 Curriculum Vitae
+
+➡️ [Download my CV (PDF)](./CV.pdf)
 <!--
 **shmotamedi/shmotamedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
