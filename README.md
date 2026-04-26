@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Shahryar Motamedi, an astrophysicist passionate about large-scale modeling and simulation of the universe.
+I am Dr. Shahryar Motamedi, an astrophysicist passionate about large-scale modeling and simulation of the universe.
 
 ➡️ [my CV (PDF)](./CV.pdf)
 <!--
