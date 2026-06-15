@@ -1,6 +1,5 @@
 ## Hi there 👋
-Computational astrophysicist specializing in large-scale numerical modeling and data analysis using Python in Linux-based high-performance computing (HPC) environments, with hands-on experience in using RAMSES (from execution to analysis) as a high resolution open source code for hydrodynamical and gravitational N-body astrophysical simulations, to probe fundamental unsolved questions in galactic dynamics and modified gravity theories.
-
+Computational astrophysicist specializing in large-scale numerical modeling and data analysis using Python in Linux-based high-performance computing (HPC) environments, with hands-on experience in using RAMSES (from execution to analysis) as a high resolution open source code for hydrodynamical and gravitational N-body astrophysical simulations, to probe fundamental unsolved questions in galactic dynamics and modified gravity theories.   
 ➡️ [my CV (PDF)](./CV.pdf)
 <!--
 **shmotamedi/shmotamedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
